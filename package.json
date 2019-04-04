@@ -1,0 +1,29 @@
+{
+    "name": "ts-kitchen-sink",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "dev": "npx webpack -w"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/heathertill/ts-kitchen-sink.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/heathertill/ts-kitchen-sink/issues"
+    },
+    "homepage": "https://github.com/heathertill/ts-kitchen-sink#readme",
+    "dependencies": {
+        "@types/jquery": "^3.3.29",
+        "express": "^4.16.4",
+        "jquery": "^3.3.1",
+        "ts-loader": "^5.3.3",
+        "typescript": "^3.4.1",
+        "webpack": "^4.29.6",
+        "webpack-cli": "^3.3.0"
+    }
+}
