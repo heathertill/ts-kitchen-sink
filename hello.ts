@@ -10,7 +10,7 @@ console.log(val);
 
 function SayHello(options: { greeting: string }) {
     alert(options.greeting);
-}
+};
 
 SayHello({
     greeting: 'Hello World!!! From: TypeScript'
