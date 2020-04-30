@@ -20,7 +20,7 @@
     "dependencies": {
         "@types/jquery": "^3.3.29",
         "express": "^4.16.4",
-        "jquery": "^3.4.1",
+        "jquery": "^3.5.0",
         "serialize-javascript": "^2.1.2",
         "ts-loader": "^5.3.3",
         "typescript": "^3.4.1",
