@@ -19,7 +19,7 @@
     "homepage": "https://github.com/heathertill/ts-kitchen-sink#readme",
     "dependencies": {
         "@types/jquery": "^3.3.29",
-        "express": "^4.16.4",
+        "express": "^4.17.3",
         "jquery": "^3.4.1",
         "serialize-javascript": "^2.1.2",
         "ts-loader": "^5.3.3",
